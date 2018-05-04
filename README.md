@@ -1,4 +1,4 @@
-Hello new coworker!
+
 
 Here is a list of tools I'd recommend using for analysis:
 
